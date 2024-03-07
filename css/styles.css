@@ -8570,7 +8570,10 @@ textarea.form-control-lg {
     margin-top: -3rem !important;
     margin-bottom: -3rem !important;
 }
-
+.my-n6 {
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+}
 .mt-n1 {
     margin-top: -0.25rem !important;
 }
@@ -10711,6 +10714,7 @@ textarea.form-control-lg {
     .px-md-5 {
         padding-right: 3rem !important;
         padding-left: 3rem !important;
+        padding-bottom: 0.5rem !important;
     }
 
     .py-md-0 {
